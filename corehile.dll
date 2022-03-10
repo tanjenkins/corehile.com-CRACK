@@ -1,0 +1,18 @@
+<head>
+<meta name="robots" content="index,follow"/>
+</head>
+<? 
+    $page_title = 'CS:GO Hile Satin Al - Orbit Premium';
+    include('header2.php'); 
+?>
+
+<main>
+    <br><br><br><br>
+<?php include('satin-al-kismi.php'); ?>
+
+</div>
+</div>
+</section>
+</main>
+<br><br><br><br><br><br>
+<? include('footer2.php'); ?>
